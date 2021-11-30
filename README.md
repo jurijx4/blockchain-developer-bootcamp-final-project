@@ -3,10 +3,13 @@ ConsenSys Academy final project
 
 On- chain relationship 
 
-I created a decentralized application that allows a certain user to create a relationship between him and his special person which will be forever saved in the blockchain. The user needs 
+I created a decentralized application that allows a certain user to create a relationship between him and his special person which will be forever saved in the blockchain.
 The user needs to enter his name, second person's name, the relationship they are in and the number of kids they have. 
 User can also destroy his relationship by deleting persons name and setting his status to single.
  If the relationship is blessed with another child they can easily add the child to their relationship. 
+ 
+ Youtube video (Ganache) faster local version:https://youtu.be/l0_EDDTRH0o 
+ Youtube video (Ropsten) slower version: https://youtu.be/S2nC3y2gOm4
 
 The directory structure
 
