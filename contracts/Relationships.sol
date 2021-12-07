@@ -146,7 +146,7 @@ contract Relationships is Ownable, Pausable, ReentrancyGuard{
     }
 
     ///@dev Addresses will be in a relationship if the person to whom was the proposal send acecpts the proposal 
-    ///@param user the address you want to accept his/hers proposition for a relationship
+    ///@param user the address you want to accept his/hers proposition for a relationship.  Will implement later ***
     function acceptRelationship(address user) public payable{
     }
 }
