@@ -8,9 +8,6 @@ The user needs to enter his name, second person's name, the relationship they ar
 User can also destroy his relationship by deleting persons name and setting his status to single.
  If the relationship is blessed with another child they can easily add the child to their relationship. 
  
- Youtube video (Ganache) faster local version:https://youtu.be/l0_EDDTRH0o 
-	
- Youtube video (Ropsten) slower version: https://youtu.be/S2nC3y2gOm4
 
 The directory structure
 
@@ -31,16 +28,16 @@ The directory structure
 
 How to run this project locally:
 
-Prerequisites:
-    Node.js >= v14
-    Truffle and Ganache >= 5.4.19
-    git clone REPOSITORY_URL
+Truffle and ganache have been used for application development. See the Truffle website for installation instructions for your platform. The application can be worked on locally by,
 
-Backend - Blockchain/Smart Contracts
-    Run npm install in project root to install smart contract dependencies
-    Run local testnet in either port 7545 with Ganache GUI 
-    truffle migrate --network development/ganache (for GUI)
-    truffle console --network development/ganache
-    Run tests in Truffle console: test
+1.	Clone this repo.
+	git clone git@github.com:niallcreech/blockchain-developer-bootcamp-final-project.git
+	cd blockchain-developer-bootcamp-final-project
+2.	Installing Truffle and Ganache.
+
+    
+Youtube video (Ganache) faster local version:https://youtu.be/l0_EDDTRH0o 
+	
+Youtube video (Ropsten) slower version: https://youtu.be/S2nC3y2gOm4
 
 My ETH for the NFT certificate(which is awesome!): 0x4f415E45546E496adf520CDd94c1753d95875067
