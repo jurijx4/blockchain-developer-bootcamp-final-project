@@ -7,7 +7,7 @@ Have used inheritance to derive contract state and functions from a verified and
 
 
 Access Control Design Patterns (Restricting access to certain functions using things like Ownable, Role-based Control) Access Control Design Patterns
-- Using Ownable with onlyOwner modifier for setting the cut that the contract gets for every created relationship
+- Using Ownable with onlyOwner modifier for setting the cut that the contract gets for every created relationship. Future work
 - Using Pausable with whenNotPaused modifier to implement an emergency stop mechanism that can be triggered by an authorized account.
 
 Optimizing Gas (Creating more efficient Solidity code)
