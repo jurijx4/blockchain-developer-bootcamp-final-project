@@ -1,6 +1,6 @@
 Using Specific Compiler Pragma SWC-103
 
-Use Modifiers Only for Validation
+Code With No Effects SWC-135 (Only funcitons that i will later implement)
 
 Requirement Violation SWC-123
 
