@@ -31,9 +31,9 @@ User can also destroy his relationship by deleting persons name and setting his 
     - relationships_test.js main test file !!
 
 <b>How to run this project locally:</b><br>
-Prerequisites<br>
-Node.js >= v14 <br>
-Truffle and Ganache >= 5.4.19
+Prerequisites:<br>
+- Node.js >= v14 <br>
+- Truffle and Ganache >= 5.4.19
 
 
 Truffle and ganache have been used for application development. See the Truffle website for installation instructions for your platform. The application can be worked on locally by,
