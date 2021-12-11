@@ -39,12 +39,12 @@ Prerequisites:<br>
 Truffle and ganache have been used for application development. See the Truffle website for installation instructions for your platform. The application can be worked on locally by,
 
 1.	Clone this repo.<br>
-	git clone https://github.com/jurijx4/blockchain-developer-bootcamp-final-project.git <br>
-	cd blockchain-developer-bootcamp-final-project
+	`git clone https://github.com/jurijx4/blockchain-developer-bootcamp-final-project.git` <br>
+	`cd blockchain-developer-bootcamp-final-project`
 2.	Installing Truffle and Ganache.
 3.	Running the contract tests.(localhost) <br>
-	npm install <br>
-	truffle test
+	`npm install` <br>
+	`truffle test`
 
 <b>Dapp videos: </b>   
 Youtube video (Ganache) faster local version:https://youtu.be/l0_EDDTRH0o <br>	
